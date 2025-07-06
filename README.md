@@ -3,6 +3,7 @@
 💻 Passionate MERN Stack Developer | Problem Solver | Self-Learner  
 📍 Based in India | Open to Full-Time/Internship Opportunities  
 📧 ajay2002saini12@gmail.com
+
 📑 MCA ( CS & IT ) from lords university alwar || passout year - 2025 || cgpa - 79%
 📑 BSC ( Mathematics & Computational Science ) || passout year - 2023 || cgpa - 78%
 
