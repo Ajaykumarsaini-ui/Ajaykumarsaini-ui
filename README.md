@@ -3,14 +3,17 @@
 💻 Passionate MERN Stack Developer | Problem Solver | Self-Learner  
 📍 Based in India | Open to Full-Time/Internship Opportunities  
 📧 ajay2002saini12@gmail.com
+📑 MCA ( CS & IT ) from lords university alwar || passout year - 2025 || cgpa - 79%
+📑 BSC ( Mathematics & Computational Science ) || passout year - 2023 || cgpa - 78%
+
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js, Redux Toolkit, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose, REST APIs, JWT
+- **Frontend:** React.js, Redux Toolkit, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap , axios , Next.js , react-form-hook , shadcn , gsap , framer - motion
+- **Backend:** Node.js, Express.js, MongoDB, Mongoose, REST APIs, JWT , cloudnary , multer , morgan , nodemon , bcript , Mvc , cookies , websockets 
 - **Tools & Platforms:** Git, GitHub, Postman, Vercel, Render, Netlify, Firebase
-
+- **AI Tools:** chatgpt , windsurf and more 
 ---
 
 ## 💼 Featured Projects
@@ -30,8 +33,8 @@ A multi-role system for managing students, staff, and admin dashboards.
 ---
 
 ## 🔗 Let's Connect
-- 📧 Email: ajaykumarsaini2216@gmail.com  
-- 🌐 LinkedIn: *(Add your LinkedIn profile link)*  
+- 📧 Email: ajay2002saini12@gmail.com  
+- 🌐 LinkedIn: *https://www.linkedin.com/in/ajay-kumar-32391228b*  
 - 💼 Portfolio: *(Optional — coming soon or hosted resume)*
 
 ---
