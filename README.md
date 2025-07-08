@@ -35,8 +35,8 @@ A multi-role system for managing students, staff, and admin dashboards.
 
 ## 🔗 Let's Connect
 - 📧 Email: ajay2002saini12@gmail.com  
-- 🌐 LinkedIn: *https://www.linkedin.com/in/ajay-kumar-32391228b*  
-- 💼 Portfolio: *(Optional — coming soon or hosted resume)*
+- 🌐 LinkedIn: https://www.linkedin.com/in/ajay-kumar-32391228b  
+- 💼 Portfolio: https://portfoliowebajay.netlify.app/
 
 ---
 
